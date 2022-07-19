@@ -82,7 +82,7 @@ button{
 	font-weight: bolder;
 }
 
-.pos{
+.pos, .result p{
 	margin: 20px 0;
 	font-size:20px;
 	font-weight: 700;
